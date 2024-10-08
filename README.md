@@ -11,6 +11,12 @@ Localies App is a Flutter-based mobile application designed to help users locate
 - **Custom Fonts**: Beautiful custom fonts for enhanced UI.
 
 
+## APK link here
+[Install Apk here](apk/app-release.apk)
+## Screenshots
+
+<img src="apk/StoreMap1.jpeg" width="200"> <img src="apk/StoreMap2.jpeg" width="200"> 
+
 ## Installation
 
 1. **Clone the repository**:
@@ -37,11 +43,11 @@ Localies App is a Flutter-based mobile application designed to help users locate
 - flutter_map
 - latlong2
 - flutter_map_compass
-- Project Structure
 
 
 
-## Poject Structure
+
+## Project Structure
 ```sh
 localies_app/
 ├── android/
